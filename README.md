@@ -1,9 +1,10 @@
 # ArduiTouch-Codelock-ESP32
 Different people asked me for a very simple code example for our ArduiTouch ESP set with out too much additional functions. This is a very simple codelock / keypad example for ArduiTouch ESP with ESP8266 to demonstate the basic graphic and audio features of the ArduiTouch kit.
 
+![My image](https://i.pinimg.com/564x/f1/7e/0f/f17e0fb9de3552c1c893d19d422fd41a.jpg)
 
 
-#Usage
+## Usage
 
 Install the following libraries through Arduino Library Manager
 
@@ -15,7 +16,7 @@ After installing the Adafruit libraries, restart the Arduino IDE.
 
 You can find the latest version of the code and the description of the hardware at https://www.hwhardsoft.de/english/projects/arduitouch-esp/
 
-#License
+## License
 
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
 
